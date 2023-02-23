@@ -2,11 +2,11 @@
     "pipeline": [
         {
             "type": "readers.las",
-            "filename":"/Users/hfu/Downloads/USGS_Lidar_Point_Cloud_NY_CMPG_2013_18TWL850060_LAS_2015.laz"
+            "filename":"USGS_Lidar_Point_Cloud_NY_CMPG_2013_18TWL850075_LAS_2015.laz"
         },
         {
             "type": "writers.copc",
-            "filename":"USGS_Lidar_Point_Cloud_NY_CMPG_2013_18TWL850060_LAS_2015.copc.laz"
+            "filename":"USGS_Lidar_Point_Cloud_NY_CMPG_2013_18TWL850075_LAS_2015.copc.laz"
         }
     ]
 }
